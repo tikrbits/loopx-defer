@@ -1,0 +1,17 @@
+{
+  "bracketSpacing": false,
+  "singleQuote": true,
+  "printWidth": 80,
+  "trailingComma": "all",
+  "arrowParens": "avoid",
+  "useTabs": false,
+  "overrides": [
+    {
+      "files": "**/*.md",
+      "options": {
+        "parser": "markdown",
+        "proseWrap": "always"
+      }
+    }
+  ]
+}
