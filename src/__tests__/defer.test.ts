@@ -1,4 +1,4 @@
-import {expect} from '@tib/testlab';
+import {expect} from '@loopback/testlab';
 import {EventEmitter} from 'events';
 import {Defer} from '../defer';
 

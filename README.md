@@ -1,7 +1,4 @@
-# @tib/defer
-
-[![Build](https://gitr.net/tibjs/defer/badges/master/pipeline.svg)](https://gitr.net/tibjs/defer)
-[![Coverage](https://gitr.net/tibjs/defer/badges/master/coverage.svg)](https://gitr.net/tibjs/defer)
+# @loopx/defer
 
 > Create a deferred promise
 
@@ -10,7 +7,7 @@
 ### Promised delay
 
 ```typescript
-import {Defer} from '@tib/defer';
+import {Defer} from '@loopx/defer';
 
 function delay(ms) {
   const deferred = new Defer();
@@ -29,7 +26,7 @@ The above is just an example. Use delay if you need to
 
 ### Testing for callback/event
 
-You can write test cases more elegant with `@tib/defer` for callback/event
+You can write test cases more elegant with `@loopx/defer` for callback/event
 testing
 
 ```typescript
