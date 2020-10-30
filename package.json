@@ -1,6 +1,6 @@
 {
   "name": "@loopx/defer",
-  "version": "0.1.2",
+  "version": "1.0.0",
   "description": "Create a deferred promise",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
